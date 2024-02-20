@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I am a cinephile (over 1600 movies watched) and I know the lore of both DC and Marvel by heart**
 
-<a href="https://app.daily.dev/KoussayKhelil"><img src="https://api.daily.dev/devcards/05b9a93d4bed4745b8f65a0accc666b1.png?r=kgh" width="400" alt="koussay khelil's Dev Card"/></a>
+<a href="https://app.daily.dev/koussaykhelil"><img src="https://api.daily.dev/devcards/v2/oaiPRrs6A.png?r=i93&type=default" width="356" alt="koussay khelil's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
